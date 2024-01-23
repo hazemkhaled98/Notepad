@@ -20,4 +20,4 @@ This is a simple JavaFX Notepad application that allows users to create, open, e
 - Click on the "File" menu and select "Save" to save the current text content to a file. If the file is new, it will prompt for a file name and location.
 - Edit Text: Click on the "Edit" menu to access editing functionalities.
 ## Dependencies
-JavaFX: This application uses JavaFX for building the user interface.
+- JavaFX: This application uses JavaFX for building the user interface.
